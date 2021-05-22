@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://compassionate-heisenberg-7aea20.netlify.app/"
+baseURL = "https://www.ctpo.tech"
 title = "CTPO.TECH | CTPO as a Service"
 theme = "somrat"
 # post pagination

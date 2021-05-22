@@ -96,6 +96,10 @@ link = "https://www.instagram.com/samirne/"
 #icon = "fab fa-github"
 #link = "https://github.com/somratpro"
 
+[[params.social]]
+icon = "fab fas fa-envelope"
+link = "mailto:hello@ctpo.tech"
+
 
 ################################### English language #####################################
 [Languages.en]

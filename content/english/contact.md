@@ -10,6 +10,6 @@ submit: "Submit"
 
 # custom style
 custom_class: "" 
-custom_attributes: "netlify" 
+custom_attributes: "" 
 custom_css: ""
 ---
